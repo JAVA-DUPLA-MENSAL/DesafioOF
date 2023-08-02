@@ -1,0 +1,2 @@
+Nome do cliente: Luiz
+Endereço de entrega: exemplo
